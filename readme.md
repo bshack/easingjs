@@ -1,12 +1,6 @@
 # easing.js
 
-Generic set of easing functions with AMD support. Examples:
-
-  * [Morpheus](https://github.com/ded/morpheus) `morpheus.easings = require('easing');`
-  * [jQuery](http://jquery.com) `$.extend($.easing, window.easing);`
-
-
-## Easing Shortcuts
+## Shortcuts
 
     swingFromTo
     swingFrom
@@ -44,9 +38,8 @@ Generic set of easing functions with AMD support. Examples:
     elastic
 
 
-## MIT License 
+## MIT License
 
-Based on the original [Robert Penner](https://raw.github.com/danro/easing-js/master/LICENSE) equations, and ported over from [Jeremy Kahn's Shifty](https://github.com/jeremyckahn/shifty/) easing methods.
+Based on the original [Robert Penner](https://raw.github.com/danro/easing-js/master/LICENSE) equations, ported over from [Jeremy Kahn's Shifty](https://github.com/jeremyckahn/shifty/) easing methods and then forked from [Dan Rogers' easing-js](https://github.com/danro/easing-js).
 
 This code may be freely distributed under the MIT license.
-http://danro.mit-license.org/
