@@ -1,19 +1,14 @@
 {
-  "name": "easing",
-  "version": "0.5.4",
-  "description": "Generic set of easing functions with AMD support",
+  "name": "easingjs",
+  "version": "1.0.0",
+  "description": "simplified Penner easing functions",
   "authors": [
-    "Dan Rogers <dan@danro.net>"
+    "Robert Penner"
   ],
   "license": "MIT",
   "keywords": ["animation", "easing", "tween"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/danro/easing-js.git"
-  },
-  "ignore": [
-    "node_modules"
-  ],
-  "dependencies": {
+    "url": "git://github.com/bshack/easing-js.git"
   }
 }
