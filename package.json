@@ -19,6 +19,11 @@
   "license": "MIT",
   "contributors": [
     {
+      "name": "Dan Rogers",
+      "email": "dan@danro.net",
+      "url": "https://github.com/danro"
+    },
+    {
       "name": "Bill Shackelford",
       "email": "bshackelford@gmail.com",
       "url": "https://github.com/bshack"
