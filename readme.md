@@ -1,4 +1,4 @@
-# easing.js
+# easingjs
 
 ## Shortcuts
 
