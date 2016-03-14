@@ -2,9 +2,9 @@
 
 Simplified Penner easing functions.
 
-Each function only takes a position argument:
+Each function only takes a position argument, for example:
 
-easeInQuad(pos);
+    easeInQuad(pos);
 
 View Robert Prenner's original code:
 
