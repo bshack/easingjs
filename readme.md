@@ -12,7 +12,7 @@ http://robertpenner.com/easing/
 
 ## Authors
 
-Based on the original [Robert Penner](https://raw.github.com/danro/easing-js/master/LICENSE) equations, ported over from [Jeremy Kahn's Shifty](https://github.com/jeremyckahn/shifty/) easing methods and then forked from [Dan Rogers' easing-js](https://github.com/danro/easing-js).
+Based on the original [Robert Penner](https://raw.github.com/danro/easing-js/master/LICENSE) equations, ported over from [Jeremy Kahn's Shifty](https://github.com/jeremyckahn/shifty/) easing methods and then forked from [Dan Rogers' easing-js](https://github.com/danro/easing-js) to be published in the npm directory.
 
 ## Shortcuts
 

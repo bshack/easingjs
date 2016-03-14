@@ -1,6 +1,6 @@
 {
   "name": "easingjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simplified Penner easing functions",
   "authors": [
     "Robert Penner"
